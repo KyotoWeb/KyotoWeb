@@ -13,12 +13,12 @@
 
 -----------------
 
-<p align="center">[Mon youtube](https://www.youtube.com/channel/UC3qf9qKE0sE9U-wB0g3iv-w)!
+<p align="center">[Mon youtube]: (https://www.youtube.com/channel/UC3qf9qKE0sE9U-wB0g3iv-w)!
 
    
    
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Kyoto1337&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
-<p align="center"<img src="https://profile-counter.glitch.me/Kyoto1337/count.svg">
+<p align="center"><img src="https://profile-counter.glitch.me/Kyoto1337/count.svg">
 <p align="center"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
 <p align="center"><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
 <p align="center"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
