@@ -17,7 +17,7 @@
 
    
    
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Kyoto1337&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kyoto1337&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 <p align="center"><img src="https://profile-counter.glitch.me/Kyoto1337/count.svg">
 <p align="center"><img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Kyoto1337&layout=compact&langs_count=8&theme=react&locale=fr">
 <p align="center"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
