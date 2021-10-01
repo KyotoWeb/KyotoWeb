@@ -1,4 +1,4 @@
-- <p align="center"><img src="https://cdn.discordapp.com/attachments/878360404970070096/893536401575006218/spirited-away-chihiro.gif">
+- <p align="center"><img src="https://cdn.discordapp.com/attachments/878360404970070096/893554624861192242/f6fSwX4.gif">
 
 -----------------
 
