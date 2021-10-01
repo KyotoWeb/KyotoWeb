@@ -19,7 +19,7 @@
    
 <p align="center">
 <a href="https://github.com/billythegoat356">
-  <img height="180em" data-canonical-src="https://github-readme-stats-eight-theta.vercel.app/api?username=Kyoto1337&amp;show_icons=true&amp;theme=react&amp;include_all_commits=true&amp;locale=fr" style="max-width: 100%;">
+  <img height="180em" <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Kyoto1337" data-canonical-src="https://github-readme-stats-eight-theta.vercel.app/api?username=Kyoto1337&amp;show_icons=true&amp;theme=react&amp;include_all_commits=true&amp;locale=fr" style="max-width: 100%;">
   <img height="150em" data-canonical-src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Kyoto1337&amp;layout=compact&amp;langs_count=8&amp;theme=react&amp;locale=fr" style="max-width: 100%;">
 </a>
 </p>
