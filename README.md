@@ -1,6 +1,6 @@
 - <img src="https://cdn.discordapp.com/attachments/878360404970070096/893536401575006218/spirited-away-chihiro.gif">
 
-
+-----------------
 
 
 
@@ -13,7 +13,9 @@
 -----------------
 
    [Mon youtube](https://www.youtube.com/channel/UC3qf9qKE0sE9U-wB0g3iv-w) !
-
+   
+   
+-----------------
 <img src="https://github-readme-stats.vercel.app/api?username=Kyoto1337&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
 
