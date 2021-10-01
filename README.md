@@ -13,7 +13,7 @@
 
 -----------------
 
-<p align="center">[Mon youtube]: https://www.youtube.com/channel/UC3qf9qKE0sE9U-wB0g3iv-w!
+<p align="center"><a href="https://www.youtube.com/channel/UC3qf9qKE0sE9U-wB0g3iv-w" rel="nofollow"> Ma chaîne YouTube  
 
    
    
