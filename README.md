@@ -1,3 +1,13 @@
+- <img src="https://cdn.discordapp.com/attachments/878360404970070096/893536401575006218/spirited-away-chihiro.gif">
+
+
+
+
+
+
+
+
+
 - <img src="https://cdn.discordapp.com/emojis/885978050976706630.gif?size=32">                 Hi, I’m @Kyoto1337
 
 
