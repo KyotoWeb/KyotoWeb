@@ -1,4 +1,4 @@
-- <p align="center"><img src="https://cdn.discordapp.com/attachments/900122802202488895/900465450213842994/Anime-image-anime-36440438-500-274.giff">
+- <p align="center"><img src="https://cdn.discordapp.com/attachments/900122802202488895/900465450213842994/Anime-image-anime-36440438-500-274.gif">
 
 -----------------
 
