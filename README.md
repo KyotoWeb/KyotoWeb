@@ -8,7 +8,7 @@
 
 
 
-- <p align="center"><img align="center" alt="Kyoto-yoda" src="https://cdn.discordapp.com/emojis/885978050976706630.gif?size=32">  
+- <p align="center"><img align="center" alt="Kyoto-yoda" src="https://cdn.discordapp.com/emojis/889650324590198844.gif?size=40">  
 - <p align="center"> Hi, I’m @Kyoto
 
 -----------------
