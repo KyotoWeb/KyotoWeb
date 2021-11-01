@@ -19,7 +19,7 @@
    
 <p align="center">
 <a href="https://github.com/KyotoWeb">
-  <img height="180em" <img height="180em" src="https://camo.githubusercontent.com/ac83c7c8b99d1b6823b9c29f46435933ebfe7824ccc50d35cd65206d73f867a1/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d616e7572616768617a72612673686f775f69636f6e733d7472756526686964653d636f6e74726962732c7072732663616368655f7365636f6e64733d3836343030267468656d653d6d69646e696768742d707572706c65" data-canonical-src="https://github-readme-stats-eight-theta.vercel.app/api?username=KyotoWeb&amp;show_icons=true&amp;theme=react&amp;include_all_commits=true&amp;locale=fr" style="max-width: 100%;">
+  <img height="180em" <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KyotoWeb&theme=midnight-purple&show_icons=true" data-canonical-src="https://github-readme-stats-eight-theta.vercel.app/api?username=KyotoWeb&amp;show_icons=true&amp;theme=react&amp;include_all_commits=true&amp;locale=fr" style="max-width: 100%;">
   <img height="150em"  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=KyotoWeb"data-canonical-src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=KyotoWeb&amp;layout=compact&amp;langs_count=8&amp;theme=react&amp;locale=fr" style="max-width: 100%;">
 </a>
 </p>
