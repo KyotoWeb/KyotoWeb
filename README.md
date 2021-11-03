@@ -1,7 +1,7 @@
 <pre><span class="pl-k">&gt;</span> neofetch
 </pre>
 <img src="https://cdn.discordapp.com/attachments/878360404970070096/905506323528052806/a04712a8dd0dddf59ad60ca5d234e257.jpg" align="left" alt="nanosuckysuckyonetimeonetime.php.png" width="250" height="260" data-canonical-src="https://imgur.com/xva0kra.png" style="max-width: 100%;">
-
+<img src="https://profile-counter.glitch.me/%7BKyotoWeb%7D/count.svg7" alt="Visitor Count" data-canonical-src="https://profile-counter.glitch.me/%7BKyotoWeb%7D/count.svg" style="max-width: 100%;">
 <pre><span class="pl-s1">KyotoWeb</span>@<span class="pl-s1">github</span>
 <span class="pl-c1">-</span><span class="pl-c1">-</span><span class="pl-c1">-</span><span class="pl-c1">-</span><span class="pl-c1">-</span><span class="pl-c1">-</span><span class="pl-c1">-</span><span class="pl-c1">-</span><span class="pl-c1">-</span><span class="pl-c1">-</span><span class="pl-c1">-</span><span class="pl-c1">-</span><span class="pl-c1">-</span><span class="pl-c1">-</span><span class="pl-c1">-</span><span class="pl-c1">-</span>
 
