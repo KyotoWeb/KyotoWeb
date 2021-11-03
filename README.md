@@ -1,7 +1,7 @@
 <pre><span class="pl-k">&gt;</span> neofetch
 </pre>
 <img src="https://cdn.discordapp.com/attachments/878360404970070096/905506323528052806/a04712a8dd0dddf59ad60ca5d234e257.jpg" align="left" alt="nanosuckysuckyonetimeonetime.php.png" width="250" height="260" data-canonical-src="https://imgur.com/xva0kra.png" style="max-width: 100%;">
-<img src="https://profile-counter.glitch.me/%7BKyotoWeb%7D/count.svg7" alt="Visitor Count" data-canonical-src="https://profile-counter.glitch.me/%7BKyotoWeb%7D/count.svg" style="max-width: 100%;">
+style="max-width: 100%;">
 <pre><span class="pl-s1">KyotoWeb</span>@<span class="pl-s1">github</span>
 <span class="pl-c1">-</span><span class="pl-c1">-</span><span class="pl-c1">-</span><span class="pl-c1">-</span><span class="pl-c1">-</span><span class="pl-c1">-</span><span class="pl-c1">-</span><span class="pl-c1">-</span><span class="pl-c1">-</span><span class="pl-c1">-</span><span class="pl-c1">-</span><span class="pl-c1">-</span><span class="pl-c1">-</span><span class="pl-c1">-</span><span class="pl-c1">-</span><span class="pl-c1">-</span>
 
@@ -26,7 +26,7 @@
 	<a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/b37763484b6fe8435681d1011c6363bdb5d75bb56c214693e4a5a12d952a7cdc/68747470733a2f2f6769746875622d726561646d652d73746174732d65696768742d74686574612e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d707361757878267468656d653d7261646963616c266c61796f75743d636f6d70616374266578636c7564655f6c616e673d6a6176612b72"><img width="290" height="120" align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=KyotoWeb&amp;show_icons=true&amp;locale=en&amp;theme=midnight-purple" data-canonical-src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=psauxx&amp;theme=radical&amp;layout=compact&amp;exclude_lang=java+r" style="max-width: 100%;"></a> 
 </p>
 
-
+<img src="https://profile-counter.glitch.me/%7BKyotoWebt%7D/count.svg" style="max-width: 100%;">
 
 
 
