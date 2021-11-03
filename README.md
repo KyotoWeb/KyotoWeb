@@ -1,20 +1,33 @@
-<pre><span class="pl-k">&gt;</span> neofetch
-</pre>
-</pre>
-<img src="https://cdn.discordapp.com/attachments/878360404970070096/905520541048389662/ad8eb9dd083464a08c8f263050b2c6f9.jpg" align="left" alt="nanosuckysuckyonetimeonetime.php.png" width="250" height="260" data-canonical-src="https://imgur.com/xva0kra.png" style="max-width: 100%;">
 
-<pre><span class="pl-s1">KyotoWeb</span>@<span class="pl-s1">github</span>
-<span class="pl-c1">-</span><span class="pl-c1">-</span><span class="pl-c1">-</span><span class="pl-c1">-</span><span class="pl-c1">-</span><span class="pl-c1">-</span><span class="pl-c1">-</span><span class="pl-c1">-</span><span class="pl-c1">-</span><span class="pl-c1">-</span><span class="pl-c1">-</span><span class="pl-c1">-</span><span class="pl-c1">-</span><span class="pl-c1">-</span><span class="pl-c1">-</span><span class="pl-c1">-</span>
 
-       <span class="pl-v">OS</span>  :  <span class="pl-v">Arch</span> <span class="pl-v">Linux</span>
-       <span class="pl-v">WM</span>  :  <span class="pl-v">Openbox</span>
-    <span class="pl-v">Shell</span>  :  <span class="pl-v">Bash</span>
- <span class="pl-v">Terminal</span>  :  <span class="pl-v">Alacritty</span>
-      <span class="pl-v">CPU</span>  :  <span class="pl-v">Intel</span> <span class="pl-v">I</span><span class="pl-s1">32</span><span class="pl-c1"></span><span class="pl-c1"></span>
-    <span class="pl-v">Alias</span>  :  <span class="pl-v">Kyoto</span>
-     <span class="pl-v">Orgs</span>  :  <span class="pl-v">NeonNetworks</span>
-<span class="pl-v">Languages</span>  :  <span class="pl-v">Python</span> <span</span>
-  </pre>
+<center>
+
+<p align="middle">
+
+```bash
+
+> neofetch
+
+```
+<img src="https://cdn.discordapp.com/attachments/878360404970070096/905520541048389662/ad8eb9dd083464a08c8f263050b2c6f9.jpg" align="left" src="https://i.pinimg.com/originals/96/a0/fc/96a0fce84427fedab035cc02f68332a3.jpg" alt="nanosuckysuckyonetimeonetime.php.png" width="250" height="260">
+
+```py
+
+
+psauxx@github
+----------------
+
+       OS  :  Arch Linux
+       WM  :  Openbox
+    Shell  :  Bash
+ Terminal  :  Alacritty
+      CPU  :  I9
+    Alias  :  Nano
+     Orgs  :  NeonNetworks
+Languages  :  Python
+
+  
+```
 <p align="left">
   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
   <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/bfd75ee3cb7e6f9bd22afee032df4b11489b5b579bdaf204478880d03acb8193/68747470733a2f2f7669612e706c616365686f6c6465722e636f6d2f31352f4646464630302f3030303030303f746578743d2b"><img alt="#474342" src="https://camo.githubusercontent.com/bfd75ee3cb7e6f9bd22afee032df4b11489b5b579bdaf204478880d03acb8193/68747470733a2f2f7669612e706c616365686f6c6465722e636f6d2f31352f4646464630302f3030303030303f746578743d2b" width="25" height="20" data-canonical-src="https://via.placeholder.com/15/FFFF00/000000?text=+" style="max-width: 100%;"></a>
