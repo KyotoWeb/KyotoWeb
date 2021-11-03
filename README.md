@@ -9,7 +9,7 @@
 > neofetch
 
 ```
-<img src="https://cdn.discordapp.com/attachments/878360404970070096/905520541048389662/ad8eb9dd083464a08c8f263050b2c6f9.jpg" align="left" src="https://i.pinimg.com/originals/96/a0/fc/96a0fce84427fedab035cc02f68332a3.jpg" alt="nanosuckysuckyonetimeonetime.php.png" width="250" height="260">
+<img src="https://cdn.discordapp.com/attachments/878360404970070096/905544254133252186/15979ee42680792a6fb115f3a1a09218.png" align="left" src="https://i.pinimg.com/originals/96/a0/fc/96a0fce84427fedab035cc02f68332a3.jpg" alt="nanosuckysuckyonetimeonetime.php.png" width="250" height="260">
 
 ```py
 
