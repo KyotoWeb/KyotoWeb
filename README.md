@@ -9,7 +9,7 @@
 > neofetch
 
 ```
-<img src="https://avatars.githubusercontent.com/" align="left" src="https://i.pinimg.com/originals/96/a0/fc/96a0fce84427fedab035cc02f68332a3.jpg" alt="nanosuckysuckyonetimeonetime.php.png" width="250" height="260">
+<img src="https://steamuserimages-a.akamaihd.net/ugc/1716409165785382019/B59784D6374FA86AADEE965800F0C22E23983B06/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" align="left" src="https://i.pinimg.com/originals/96/a0/fc/96a0fce84427fedab035cc02f68332a3.jpg" alt="nanosuckysuckyonetimeonetime.php.png" width="250" height="260">
 
 ```py
 
